@@ -1,4 +1,3 @@
-
 import { defineStore } from "pinia";
 
 export const useTodoListStore = defineStore("todoList", {
@@ -8,4 +7,4 @@ export const useTodoListStore = defineStore("todoList", {
   }),
   //Getters
   //action
-})
+});

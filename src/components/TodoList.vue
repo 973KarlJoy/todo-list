@@ -6,8 +6,8 @@ import TodoList from "@/components/TodoList";
 <template>
   <div class="todoList">
     <h1>Here is my Todo List !</h1>
-    <todo-form> </todo-form>
-    <todo-list></todo-list>
+    <todo-form/> 
+    <todo-list/>
   </div>
 </template>
 
